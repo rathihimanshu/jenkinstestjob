@@ -1,3 +1,3 @@
 #!/bin/bash
-echo 'this is from script.sh'
+echo 'thiss is from script.sh'
 echo hello >> test.txt
